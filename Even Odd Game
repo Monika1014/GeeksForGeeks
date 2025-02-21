@@ -1,0 +1,4 @@
+public static String utility(int n) {
+
+    return (n % 2 == 1) ? "You" : "Friend";
+}
